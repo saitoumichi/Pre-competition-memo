@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "84a4e868bef48cc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "469874d03a7f757d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "549fe023554b8d83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Competition/活性化関数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "活性化関数"
+            }
+          },
+          {
+            "id": "d2f6a3836ae1dafb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "どこを変えるのか.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "どこを変えるのか"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a85d2d7c12e15a09",
+    "type": "split",
+    "children": [
+      {
+        "id": "f656a95a70be7a44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecf2c352c4bb634a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c0e1d9718be9b0ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fc457455bdc09c62",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ed06cb75027258c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc3b5545a53f6d92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "854f49b16f4d6c30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "a9330b876472445a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "1a395f3fc0d49cf4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b43cb527e31ab2fa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a0200b117d190453",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d2f6a3836ae1dafb",
+  "lastOpenFiles": [
+    "検出率上げて他のコードで誤検出も減らしたい.md",
+    "どこを変えるのか.md",
+    "改善する点として.md",
+    "train_transforms.md",
+    "実際のコードだと.md",
+    "Competition/活性化関数.md",
+    "Python/トランザクションあり.md",
+    "Untitled.md",
+    "Python/トランザクションなし.md",
+    "Python/N＋1（良いところ）.md",
+    "Python/N＋1（悪いところ）.md",
+    "Python/Python.md",
+    "2025-12-18.md",
+    "Python",
+    "Untitled 1.canvas",
+    "N＋1（悪い例）.md",
+    "Competition/プレ卒/ライブラリ：.md",
+    "Competition/プレ卒/深層学習とは.md",
+    "Competition/プレ卒/実際のコードでは.md",
+    "Competition/プレ卒/レジュメ.md",
+    "Competition/プレ卒/深層学習-1.pdf",
+    "Competition/プレ卒/エポックとは.md",
+    "Competition/プレ卒/f033cd767496ca2b6553d0b6ee12829f26729327c787be4756d6b1ee69405ccd.png",
+    "Competition/プレ卒/モデルとは.md",
+    "Competition/プレ卒/Transformerとは.md",
+    "Competition/プレ卒/CNNの仕組み.md",
+    "Competition/プレ卒/8854e2d8cf388d99176c48bdd8656b273f15bfe2481ded79be04b204d67ca1b0.jpg",
+    "Competition/プレ卒/3445f5a204dfe25a58a5c924d980db5bfb4c45dca89ee7685f0d0d9a28ecc9b1.png",
+    "Competition/プレ卒/8c12fde7150b02aa35114d1fc4b70d9d88a1a0647ad931e37109e4dcbe0ae0fb.png",
+    "Competition/過学習しちゃうとどうなるのか.md",
+    "Competition/交差検証.md",
+    "Competition/プレ卒",
+    "Competition/cf01a8a66fbd72baa73e3f5f773e11c950eacf68909b4e25e7c93d39b8bb5389.jpg",
+    "Competition/b77103f9caab408f7e3bda733b6986f3b01a88202935fde0e215621fc938fae8.png",
+    "Competition/Untitled 1",
