@@ -83,16 +83,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source-code/画像変換/Untitled.md",
+                "file": "source-code/画像変換/transforms.Resize((256, 256)),.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "transforms.Resize((256, 256)),"
+            }
+          },
+          {
+            "id": "598235d4390d76d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source-code/画像変換/👉 **RandomRotation を ±30° → ±10° にしたら？**.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "👉 **RandomRotation を ±30° → ±10° にしたら？**"
+            }
+          },
+          {
+            "id": "3d897a9508d1fa19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source-code/画像変換/train_transforms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "train_transforms"
+            }
+          },
+          {
+            "id": "a180a94ad07857e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source-code/画像変換/グレースケールのマンモグラフィで調整するには.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "グレースケールのマンモグラフィで調整するには"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -256,8 +298,17 @@
   },
   "active": "ecf2c352c4bb634a",
   "lastOpenFiles": [
+    "👉「Normalize(mean, std) は何をしているのか？」.md",
+    "source-code/画像変換/グレースケールのマンモグラフィで調整するには.md",
+    "transforms.ToTensor(),.md",
+    "source-code/画像変換/train_transforms.md",
+    "source-code/画像変換/transforms.RandomAffine(    degrees=0,    translate=(0.1, 0.1),    scale=(0.9, 1.1),    shear=5).md",
+    "source-code/画像変換/👉 **RandomRotation を ±30° → ±10° にしたら？**.md",
+    "source-code/画像変換/- **flip の確率を 0.5 → 0.2 にしたら？**.md",
+    "source-code/画像変換/transforms.RandomHorizontalFlip(),.md",
+    "source-code/画像変換/transforms.Resize((256, 256)),.md",
+    "source-code/画像変換/👉「RandomCrop を CenterCrop にすると何が変わる？」.md",
     "source-code/乱数/os.environ'PYTHONHASHSEED' = str(seed).md",
-    "source-code/画像変換/Untitled.md",
     "source-code/画像変換",
     "source-code/乱数/torch.backends.cudnn.deterministic = True.md",
     "source-code/乱数/torch.cuda.manual_seed(seed).md",
@@ -275,19 +326,10 @@
     "どこを変えるのか.md",
     "検出率上げて他のコードで誤検出も減らしたい.md",
     "改善する点として.md",
-    "train_transforms.md",
     "実際のコードだと.md",
     "Python/トランザクションあり.md",
-    "Python/トランザクションなし.md",
-    "Python/N＋1（良いところ）.md",
-    "Python/N＋1（悪いところ）.md",
-    "Python/Python.md",
-    "2025-12-18.md",
     "Python",
     "Untitled 1.canvas",
-    "N＋1（悪い例）.md",
-    "Competition/プレ卒/ライブラリ：.md",
-    "Competition/プレ卒/深層学習とは.md",
     "Competition/プレ卒/深層学習-1.pdf",
     "Competition/プレ卒/f033cd767496ca2b6553d0b6ee12829f26729327c787be4756d6b1ee69405ccd.png",
     "Competition/プレ卒/8854e2d8cf388d99176c48bdd8656b273f15bfe2481ded79be04b204d67ca1b0.jpg",
